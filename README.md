@@ -21,7 +21,7 @@ I’m a passionate software developer with an interest in network security and a
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100"/>
 
-[![Twitter](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
+[![Twitter](https://img.shields.io/twitter/follow/yourhandle?style=social)]([https://twitter.com/yourhandle](https://x.com/sabirkhan090?t=hEdxF32DgAGzM_wSCuEMMQ&s=09))
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/yourhandle/)](https://www.linkedin.com/in/yourhandle/)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername)
