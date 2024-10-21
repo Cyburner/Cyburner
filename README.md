@@ -15,3 +15,13 @@ I’m a passionate software developer with an interest in network security and a
 </p>
 
 ![Cyburner's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyburner&show_icons=true&theme=radical)
+
+![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100"/>
+
+[![Twitter](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/yourhandle/)](https://www.linkedin.com/in/yourhandle/)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername)
