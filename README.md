@@ -5,7 +5,7 @@ I’m a passionate software developer with an interest in network security and a
 - 🔭 Currently working on a cool open-source project
 - 🌱 Learning: ☹️
 - 💬 Ask me about: Python, Networking
-- 📫 How to reach me: [cyburner@example.com](mailto:cyburner99@gmail.com)
+- 📫 How to reach me: [cyburner99@gmail.com](mailto:cyburner99@gmail.com)
 
 ### Languages and Tools:
 <p align="left">
