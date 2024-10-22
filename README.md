@@ -3,9 +3,9 @@
 I’m a passionate software developer with an interest in network security and automation. Always learning and sharing new things.
 
 - 🔭 Currently working on a cool open-source project
-- 🌱 Learning: DDoS mitigation techniques
+- 🌱 Learning: ☹️
 - 💬 Ask me about: Python, Networking
-- 📫 How to reach me: [cyburner@example.com](mailto:cyburner@example.com)
+- 📫 How to reach me: [cyburner@example.com](mailto:cyburner99@gmail.com)
 
 ### Languages and Tools:
 <p align="left">
